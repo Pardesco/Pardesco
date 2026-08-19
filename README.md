@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/01.jpg" width="24%" alt="Generative render" />
-  <img src="assets/02.jpg" width="24%" alt="Generative pattern render" />
-  <img src="assets/03.jpg" width="24%" alt="Architectural render" />
-  <img src="assets/04.jpg" width="24%" alt="Procedural architecture render" />
+  <img src="assets/01.jpg" width="24%" alt="Spiral staircase render" />
+  <img src="assets/02.jpg" width="24%" alt="Generative lattice pattern" />
+  <img src="assets/03.jpg" width="24%" alt="Crystal structure render" />
+  <img src="assets/04.jpg" width="24%" alt="Glowing crystal render" />
 </p>
 
 <h3 align="center">Randall Morgan</h3>
