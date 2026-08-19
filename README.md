@@ -25,7 +25,7 @@
 |---|---|---|
 | **[HYPERNOVUM](https://github.com/Pardesco/hypernovum)** | Turns your notes into a 3D city you can walk, then puts a fleet of AI coding agents to work inside it — and lets you watch them | `89★` · desktop |
 | **Reshoot** | Relight and re-render a 3D scene with AI without leaving the app | `$39` · 3D tool |
-| **[4D Polytope Engine](https://pardesco.com)** | Brings a class of geometry into 3D software that nothing else on the market handles | `$29` · 3D tool |
+| **[4D Polytope Engine](https://pardesco.com/products/4d-polytope-engine)** | Brings a class of geometry into 3D software that nothing else on the market handles | `$29` · 3D tool |
 | **VesselLab** | Design vases, lampshades and planters by dragging sliders; exports print-ready files | `$29` · 3D tool |
 | **[Ornament Studio](https://laserburnai.com/tools/ornament-studio)** | Generates intricate geometric patterns as cut-ready vector files | `$29` · browser |
 | **[LaserBurnAI tools](https://laserburnai.com/tools)** | Free and client-side — nothing uploaded, nothing tracked: layered slicer, sheet nesting, image→3D, box generator | free · browser |
