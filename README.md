@@ -39,10 +39,10 @@
 | **[4d-polytope-viewer](https://github.com/Pardesco/4d-polytope-viewer)** | Browser-based interactive geometry viewer. 1,700+ shapes, WebGL, no install |
 | **[envelope-extrusion-explorer](https://github.com/Pardesco/envelope-extrusion-explorer)** | Independent replication of a published result, including the identity its examples actually relied on |
 
-### Stack
+### Stack & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,react,threejs,tailwind,astro,cloudflare,vite,blender,git" alt="TypeScript, Python, React, Three.js, Tailwind, Astro, Cloudflare, Vite, Blender, Git" />
+  <img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, Python, React, Next.js, Three.js, Electron, Cloudflare, n8n, MCP, Blender. Tools: Claude Code, GPT (Codex CLI), Antigravity." />
 </p>
 
 <sub>TypeScript · Python · React + Three.js / WebGL · Cloudflare Workers &amp; Pages · Electron · Blender Python API · Claude Code, Codex and Antigravity in the loop daily</sub>
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pardesco&theme=github-compact&hide_border=true&area=true" width="94%" alt="Contribution activity" />
+  <img src="assets/activity.svg" width="100%" alt="Contribution activity, last 31 days" />
 </p>
 
 <p align="center"><sub>Most of what I build lives in private repos — the graph above is a fraction of it.</sub></p>
