@@ -6,7 +6,7 @@ const path = require("path");
 const dir = process.argv[2];
 const map = {
   typescript: "typescript", python: "python", react: "react", nextjs: "nextdotjs", threejs: "threedotjs",
-  electron: "electron", cloudflare: "cloudflare", n8n: "n8n", mcp: "modelcontextprotocol", blender: "blender",
+  electron: "electron", cloudflare: "cloudflare", supabase: "supabase", n8n: "n8n", mcp: "modelcontextprotocol", blender: "blender",
   claude: "claude", openai: "simple-icons_15_icons_openai", antigravity: "antigravity",
 };
 const out = {};

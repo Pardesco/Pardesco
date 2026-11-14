@@ -45,7 +45,7 @@
 ### Stack & tools
 
 <p>
-  <img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, Python, React, Next.js, Three.js, Electron, Cloudflare, n8n, MCP, Blender. Tools: Claude Code, GPT (Codex CLI), Antigravity." />
+  <img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, Python, React, Next.js, Three.js, Electron, Supabase, Cloudflare, n8n, MCP, Blender. Tools: Claude Code, GPT (Codex CLI), Antigravity." />
 </p>
 
 <sub>TypeScript · Python · React + Three.js / WebGL · Cloudflare Workers &amp; Pages · Electron · Blender Python API · Claude Code, Codex and Antigravity in the loop daily</sub>

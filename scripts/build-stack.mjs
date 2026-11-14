@@ -8,7 +8,7 @@ const MONO = "ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation M
 
 const stack = [
   ["typescript", "TypeScript"], ["python", "Python"], ["react", "React"], ["nextjs", "Next.js"], ["threejs", "Three.js"],
-  ["electron", "Electron"], ["cloudflare", "Cloudflare"], ["n8n", "n8n"], ["mcp", "MCP"], ["blender", "Blender"],
+  ["electron", "Electron"], ["supabase", "Supabase"], ["cloudflare", "Cloudflare"], ["n8n", "n8n"], ["mcp", "MCP"], ["blender", "Blender"],
 ];
 const tools = [["claude", "Claude", "Claude Code"], ["openai", "GPT", "Codex CLI"], ["antigravity", "AGY", "Antigravity"]];
 
