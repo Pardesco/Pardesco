@@ -23,7 +23,7 @@
 ### Shipped
 
 <p align="center">
-  <a href="https://github.com/Pardesco/hypernovum"><img src="assets/rows/hypernovum.svg" width="100%" alt="HYPERNOVUM: Turns your notes into a 3D city you can walk, then puts a fleet of AI coding agents to work inside it — and lets you watch them (99★ · desktop)" /></a>
+  <a href="https://github.com/Pardesco/hypernovum"><img src="assets/rows/hypernovum.svg" width="100%" alt="HYPERNOVUM: Turns your notes into a 3D city you can walk, then puts a fleet of AI coding agents to work inside it — and lets you watch them (100★ · desktop)" /></a>
   <a href="https://superhivemarket.com/products/reshoot"><img src="assets/rows/reshoot.svg" width="100%" alt="Reshoot: Relight and re-render a 3D scene with AI without leaving the app ($39 · 3D tool)" /></a>
   <a href="https://pardesco.com/products/4d-polytope-engine"><img src="assets/rows/polytope-engine.svg" width="100%" alt="4D Polytope Engine: Brings a class of geometry into 3D software that nothing else on the market handles ($29 · 3D tool)" /></a>
   <a href="https://superhivemarket.com/products/vessellab"><img src="assets/rows/vessellab.svg" width="100%" alt="VesselLab: Design vases, lampshades and planters by dragging sliders; exports print-ready files ($29 · 3D tool)" /></a>
